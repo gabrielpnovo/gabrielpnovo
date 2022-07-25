@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Lojas Renner SA as RPA Developer;
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, React;
+
 <!--
 **gabrielpnovo/gabrielpnovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
